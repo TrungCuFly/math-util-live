@@ -15,6 +15,8 @@ public class MathUtilLive {
      */
     public static void main(String[] args) {
         System.out.println("trung dep trai");
+        // sửa code chơi
+        System.out.println("trung đẹp trai");
     }
     
 }
